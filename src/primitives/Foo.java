@@ -5,7 +5,7 @@ Topic: Declare and Initialize Variables
 Sub-Topic: Initializing Primitive Data Variables to literals
 */
 
-package ptimitives;
+package primitives;
 public class Foo {
     public static void main(String[] args) {
 
